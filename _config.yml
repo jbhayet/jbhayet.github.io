@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jean-Bernard Hayet"
-  avatar           : "images/me.jpeg"
+  avatar           : "me.jpeg"
   bio              : "Researcher, CIMAT"
   location         : "Guanajuato, MX"
   employer         :
