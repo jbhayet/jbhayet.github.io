@@ -22,7 +22,7 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 
 * **Guillermo Baqueiro Victorín**. M.S., 2010. Software engineer at Mentor México.
 * **Juan Carlos Arena Mena**. M.S., 2010 (co-advised with Claudia Esteves). Developer at GameLoft.
-* **Oscar Mar, M.S., 2012. Engineer at Delphi.
+* **Oscar Mar**, M.S., 2012. Engineer at Delphi.
 * **Domingo Iván Rodriguez**. M.S., 2013. Engineer at CIMAT.
 * **Mauricio García**. M.S., 2013. Engineer at Microsoft (co-advised with Olivier Stasse).
 * **Mario Canul Ku**. M.S., 2013. Postdoc at CIMAT  (co-advised with Salvador Ruiz-Correa).
