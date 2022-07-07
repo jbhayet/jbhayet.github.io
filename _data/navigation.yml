@@ -12,5 +12,8 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Students"
+    url: /students/
+
   - title: "CV"
     url: /cv/
