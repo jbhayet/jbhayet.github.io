@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Engineering degree, Ecole Nationale Supérieure de Techniques Avancées (ENSTA), Paris, 1999
-* M.Sc. (DEA) in Artificial Intelligence and Pattern Recognition Jekyll, Université Pierre et Marie Curie, Paris, 1999
-* Ph.D in Robotics, Université Paul Sabatier, 2003
+* Engineering degree, [Ecole Nationale Supérieure de Techniques Avancées (ENSTA)](www.ensta.fr), Paris, 1999.
+* M.Sc. (DEA) in Artificial Intelligence and Pattern Recognition, [Université Pierre et Marie Curie](www.upmc.fr), Paris, 1999.
+* Ph.D in Robotics, [Université Paul Sabatier](https://www.univ-tlse3.fr/), 2003.
 
 Work experience
 ======
