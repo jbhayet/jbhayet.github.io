@@ -13,13 +13,10 @@ I'm open to collaborations with motivated students in the domains of motion pred
 
 ## Current students
 
-Daniel Omar Castro Razo. M.S. (co-advised with Johan Van Horebeek).
-Francisco Valente Castro. M.S.
-Myrna Castillo. M.S. (co-advised with Hector Becerra).
-Daniel Martinez Tovar. M.S. (co-advised with Johan Van Horebeek).
-Juan José Baldelomar. B.Sc.
-Juan Luis Baldelomar. M.S.
-Mario Canche Uc. PhD candidate.
+* Francisco Valente Castro. M.S.
+* Daniel Martinez Tovar. M.S. (co-advised with Johan Van Horebeek).
+* Juan Luis Baldelomar. M.S.
+* Mario Canche Uc. PhD candidate.
 
 ## Former students
 
@@ -49,3 +46,5 @@ Mario Canche Uc. PhD candidate.
 * Salim Vargas Hernández. M.S., 2021 (co-advised with Hector Becerra).
 * Noé Guadalupe Aldana Murillo. PhD, 2021 (co-advised with Hector Becerra). Post-Doc at CIO.
 * Javad Amirian. PhD, 2021 (co-advised with Julien Pettré).
+* Myrna Castillo. M.S., 2022 (co-advised with Hector Becerra).
+* Juan José Baldelomar. B.Sc., 2022
