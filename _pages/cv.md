@@ -17,15 +17,35 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-now: **Senior research scientist** "B".
+  * [CIMAT. A.C.](https://www.cimat.mx) (Guanajuato, México).
+  * Courses at BS, MSc, PhD levels.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: **Visiting researcher**.
+  * [INRIA](https://www.inria.fr/en/centre/rennes) (Rennes, France), Rainbow group.
+
+* 2014-2018: **Senior research scientist** "A".
+  * [CIMAT. A.C.](https://www.cimat.mx) (Guanajuato, México).
+  * Courses at BS, MSc, PhD levels.
+
+* 2007-2013: **Junior research scientist** "C".
+  * [CIMAT. A.C.](http://www.cimat.mx) (Guanajuato, Méexico).
+  * Courses at BS, MSc, PhD levels.
+
+* 2003-2006: **Researcher engineer**.
+  * [Université de Liege](http://www.ulg.ac.be/), Belgium.
+  * [TRICTRAC](http://www.multitel.be/trictrac/) project  in visual tracking of objects in hard scenarios.
+  * Supervisor: Pr. J. Piater
+  * Courses at BS level.
+
+* 2003: **Post-doc**.  
+  * [LAAS-CNRS](https://www.laas.fr/).
+  * Human-robot interaction. Mobile robot localization. Sensor fusion.
+
+* 1999-2003: **PhD thesis**.
+  * [Universit\'e Paul Sabatier](www.univ-tlse3.fr/) (Toulouse, France), and  (https://www.laas.fr/)[LAAS-CNRS] (Toulouse, France).
+  * Advisors: M. Devy  and F. Lerasle.
+  * Topic: Visual landmarks for mobile robot navigation.
 
 Skills
 ======
