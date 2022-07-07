@@ -29,7 +29,7 @@ Work experience
   * Courses at BS, MSc, PhD levels.
 
 * 2007-2013: **Junior research scientist** "C".
-  * [CIMAT. A.C.](http://www.cimat.mx) (Guanajuato, Méexico).
+  * [CIMAT. A.C.](http://www.cimat.mx) (Guanajuato, México).
   * Courses at BS, MSc, PhD levels.
 
 * 2003-2006: **Researcher engineer**.
@@ -43,7 +43,7 @@ Work experience
   * Human-robot interaction. Mobile robot localization. Sensor fusion.
 
 * 1999-2003: **PhD thesis**.
-  * [Universit\'e Paul Sabatier](www.univ-tlse3.fr/) (Toulouse, France), and  (https://www.laas.fr/)[LAAS-CNRS] (Toulouse, France).
+  * [Université Paul Sabatier](www.univ-tlse3.fr/) (Toulouse, France), and  [LAAS-CNRS](https://www.laas.fr/) (Toulouse, France).
   * Advisors: M. Devy  and F. Lerasle.
   * Topic: Visual landmarks for mobile robot navigation.
 
