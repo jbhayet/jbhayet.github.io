@@ -16,3 +16,11 @@ I studied my engineer degree at [Ecole Nationale Supérieure de Techniques Avanc
 <div align="center">
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=350&amp;wkst=2&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=htt3b53fdtk023llbs0fpjq85s%40group.calendar.google.com&amp;color=%236B3304&amp;src=qlq62m41e0ke77gvdt9glctp74%40group.calendar.google.com&amp;color=%235229A3&amp;src=lire7lal4pai6kng0fkno471mg%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FMexico_City" style="border-width:0" width="650" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
+
+## Contact
+
+Centro de Investigación en Matemáticas
+A.P. 402, Guanajuato, Gto.
+C.P. 36000, MEXICO
+Office : I-101
+Mail: jbhayet arrobase cimat punto mx
