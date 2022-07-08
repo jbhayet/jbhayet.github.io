@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+#title: "About me"
 #excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -20,7 +20,11 @@ I studied my engineer degree at [Ecole Nationale Supérieure de Techniques Avanc
 ## Contact
 
 Centro de Investigación en Matemáticas
+
 A.P. 402, Guanajuato, Gto.
+
 C.P. 36000, MEXICO
+
 Office : I-101
+
 Mail: jbhayet arrobase cimat punto mx
