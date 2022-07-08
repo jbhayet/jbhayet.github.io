@@ -3,6 +3,6 @@ title: "Qualitative environment modeling with cooperating visual and range senso
 collection: publications
 permalink: /publication/2002-01-01-Qualitative-environment-modeling-with-cooperating-visual-and-range-sensors
 date: 2002-01-01
-venue: 'the proceedings of Proc. IEEE/RSJ Int. Conf. on Intelligent Robots ansd Systems (IROS&apos;02)'
-citation: ' J.B. Hayet,  C. Esteves,  M. Devy,  F. Lerasle, &quot;Qualitative environment modeling with cooperating visual and range sensors.&quot; the proceedings of Proc. IEEE/RSJ Int. Conf. on Intelligent Robots ansd Systems (IROS&amp;apos;02), 2002.'
+venue: 'the proceedings of Proc. IEEE/RSJ Int. Conf. on Intelligent Robots ansd Systems (IROS)'
+citation: ' J.B. Hayet,  C. Esteves,  M. Devy,  F. Lerasle, &quot;Qualitative environment modeling with cooperating visual and range sensors.&quot; the proceedings of Proc. IEEE/RSJ Int. Conf. on Intelligent Robots ansd Systems (IROS), 2002.'
 ---
