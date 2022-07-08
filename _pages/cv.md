@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Engineering degree, [Ecole Nationale Supérieure de Techniques Avancées (ENSTA)](https://www.ensta.fr), Paris, 1999.
 * M.Sc. (DEA) in Artificial Intelligence and Pattern Recognition, [Université Pierre et Marie Curie](https://www.upmc.fr), Paris, 1999.
 * Ph.D in Robotics, [Université Paul Sabatier](https://www.univ-tlse3.fr/), 2003.
