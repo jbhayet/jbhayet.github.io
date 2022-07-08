@@ -7,4 +7,3 @@ venue: 'the proceedings of 15th IEEE-RAS International Conference on Humanoid Ro
 paperurl: 'https://doi.org/10.1109/HUMANOIDS.2015.7363563'
 citation: ' Antoine Rioux,  Claudia Esteves,  Jean-Bernard Hayet,  Wael Suleiman, &quot;Cooperative SLAM-based object transportation by two humanoid robots in a cluttered environment.&quot; the proceedings of 15th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2015, Seoul, South Korea, November 3-5, 2015, 2015.'
 ---
-[Access paper here](https://doi.org/10.1109/HUMANOIDS.2015.7363563){:target="_blank"}

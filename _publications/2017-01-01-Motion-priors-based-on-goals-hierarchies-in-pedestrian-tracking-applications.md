@@ -7,4 +7,3 @@ venue: 'Machine Vision and Applications'
 paperurl: 'https://doi.org/10.1007/s00138-017-0832-8'
 citation: ' Francisco Madrigal,  Jean-Bernard Hayet, &quot;Motion priors based on goals hierarchies in pedestrian tracking applications.&quot; Machine Vision and Applications, 2017.'
 ---
-[Access paper here](https://doi.org/10.1007/s00138-017-0832-8){:target="_blank"}

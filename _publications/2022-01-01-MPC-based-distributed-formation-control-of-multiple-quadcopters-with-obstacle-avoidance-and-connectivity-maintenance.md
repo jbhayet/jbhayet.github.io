@@ -7,4 +7,3 @@ venue: 'Control Engineering Practice'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0967066121003002'
 citation: ' Salim Vargas,  Héctor Becerra,  Jean-Bernard Hayet, &quot;MPC-based distributed formation control of multiple quadcopters with obstacle avoidance and connectivity maintenance.&quot; Control Engineering Practice, 2022.'
 ---
-[Access paper here](https://www.sciencedirect.com/science/article/pii/S0967066121003002){:target="_blank"}

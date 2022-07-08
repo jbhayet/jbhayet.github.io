@@ -7,4 +7,3 @@ venue: 'the proceedings of 2018 IEEE International Conference on Robotics and Au
 paperurl: 'https://doi.org/10.1109/ICRA.2018.8460479'
 citation: ' Hugo Carlos,  Jean-Bernard Hayet,  Rafael Murrieta-Cid, &quot;Regression-Based Linear Quadratic Regulator.&quot; the proceedings of 2018 IEEE International Conference on Robotics and Automation, ICRA 2018, Brisbane, Australia, May 21-25, 2018, 2018.'
 ---
-[Access paper here](https://doi.org/10.1109/ICRA.2018.8460479){:target="_blank"}
