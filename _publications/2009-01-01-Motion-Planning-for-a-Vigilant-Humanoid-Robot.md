@@ -6,4 +6,3 @@ date: 2009-01-01
 venue: 'the proceedings of Proc. of IEEE-RAS Int. Conf. on Humanoids (Humanoids&apos;09)'
 citation: ' J.B. Hayet,  C. Esteves,  G. Arechavaleta,  E. Yoshida, &quot;Motion Planning for a Vigilant Humanoid Robot.&quot; the proceedings of Proc. of IEEE-RAS Int. Conf. on Humanoids (Humanoids&amp;apos;09), 2009.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Motion+Planning+for+a+Vigilant+Humanoid+Robot){:target="_blank"} for full citation

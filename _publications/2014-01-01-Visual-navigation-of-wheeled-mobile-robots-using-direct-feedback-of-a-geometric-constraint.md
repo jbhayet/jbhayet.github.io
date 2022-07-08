@@ -6,4 +6,3 @@ date: 2014-01-01
 venue: 'Autonomous Robots'
 citation: ' H{\&apos;e}ctor Becerra,  Carlos Sag{\&quot;u}{\&apos;e}s,  Youcef Mezouar,  Jean-Bernard Hayet, &quot;Visual navigation of wheeled mobile robots using direct feedback of a geometric constraint.&quot; Autonomous Robots, 2014.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Visual+navigation+of+wheeled+mobile+robots+using+direct+feedback+of+a+geometric+constraint){:target="_blank"} for full citation
