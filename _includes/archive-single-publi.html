@@ -41,7 +41,7 @@
     {% endif %}
 
     {% if post.citation and post.paperurl %}
-      <p> {{ post.citation }}</p><p><a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p> {{ post.citation }}<br><a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p> {{ post.citation }} </p>
     {% elsif post.paperurl %}
