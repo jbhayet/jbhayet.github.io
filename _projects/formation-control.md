@@ -1,6 +1,6 @@
 ---
 title: "Formation control for quadricopters"
-excerpt: "."
+excerpt: "In this project, we design algorithms to control drone formations in a distributed way, without collision ."
 
 collection: projects
 ---
@@ -12,6 +12,5 @@ In this project, we design **algorithms for controlling drones** (quadricopters)
 
 Two videos from Salim Vargas'MSc. thesis:
 
-<iframe width="400" height="245" src="https://www.youtube.com/embed/QHJhTWTH9xQ" title="Coupling humanoid walking pattern generation and homography feedback for visual path-following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="400" height="245" src="https://www.youtube.com/embed/eof5K2Dcn5M" title="Obstacle avoidance with vision-driven humanoid locomotion (1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="245" src="https://www.youtube.com/embed/sXTGWBh2l8k" title="Formation control with simultaneous obstacle avoidance and connectivity maintenance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="245" src="https://www.youtube.com/embed/A9RQxtIBx6s" title="Formation control with 4 Bebops drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
