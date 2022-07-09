@@ -46,12 +46,9 @@ redirect_from:
   * Topic: Visual landmarks for mobile robot navigation.
 
 ## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C, C++, Python, R.
+* Data structures and algorithms.
+* Deep learning models.
 
 ## Publications
   <ul>{% for post in site.publications %}
@@ -65,4 +62,7 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Service and leadership
-* Currently signed in to 43 different slack teams
+* 2006-now: Reviewer ICRA, IROS, Humanoids, BMVC, ACCV, PSIVT.
+* Reviewer IEEE Transactions on robotics, IEEE Transactions on Circuits
+and Systems for Video Technology, Robotics and Autonomous Systems, Robotica, Journal of Intelligent and Robotic Systems...
+* Local chair: PSIVT2013, MIG2022.
