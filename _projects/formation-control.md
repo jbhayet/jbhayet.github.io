@@ -16,3 +16,6 @@ Two videos from Salim Vargas'MSc. thesis:
 <iframe width="50%" src="https://www.youtube.com/embed/A9RQxtIBx6s" title="Formation control with 4 Bebops drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Related thesis
+
+* *Distributed model predictive control for formations of quadrotors*, by	Salim Vargas (Msc.). Co -advised with Héctor Manuel Becerra Fermín. 12/01/2020<br>
+<a href="https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/1106/1/TE%20815.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
