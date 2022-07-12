@@ -14,9 +14,9 @@ Two videos from Salim Vargas'MSc. thesis:
 <table>
 <tr>
 <td><div class="fitvidsignore">
-<iframe width="48%" height="300" src="https://www.youtube.com/embed/sXTGWBh2l8k" title="Formation control with simultaneous obstacle avoidance and connectivity maintenance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/sXTGWBh2l8k" title="Formation control with simultaneous obstacle avoidance and connectivity maintenance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td><td><div class="fitvidsignore">
-<iframe width="48%" height="300" src="https://www.youtube.com/embed/A9RQxtIBx6s" title="Formation control with 4 Bebops drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/A9RQxtIBx6s" title="Formation control with 4 Bebops drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td>
 </tr>
 </table>
