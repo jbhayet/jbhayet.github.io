@@ -17,9 +17,9 @@ In this project, we show how visual constraints such as **homographies and funda
 </tr>
 <tr>
 <td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=DTD-0KQYg-4" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/DTD-0KQYg-4" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td><td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=PV8MR_qOPtY" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/PV8MR_qOPtY" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td>
 </tr>
 </table>
