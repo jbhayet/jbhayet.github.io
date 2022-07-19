@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jean-Bernard Hayet"
   avatar           : "me.jpeg"
-  bio              : "Researcher, [CIMAT](https://wwww.cimat.mx)"
+  bio              : "Researcher, <a href=https://wwww.cimat.mx">CIMAT</a>
   location         : "Guanajuato, MX"
   employer         :
   googlescholar    : "https://scholar.google.com.mx/citations?user=D65hQsAAAAAJ&hl=en"
