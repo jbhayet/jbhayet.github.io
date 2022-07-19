@@ -8,12 +8,12 @@ date: 2022-01-01
 location: "Guanajuato, México"
 ---
 
-## Introduction.
+### Introduction.
 
   * Overview of the course: topics, course rules.
   * General overview of Computer Vision in 2021.
 
-## Review of useful maths.
+### Review of useful maths.
 
   * Linear algebra: matrices; kernel; rank; eigenvalues and eigenvectors.
   * Linear algebra: SVD: QR; Cholesky.
@@ -22,7 +22,7 @@ location: "Guanajuato, México"
   * 3D Euclidean transformations.
   * Solid angles.
 
-## Geometry.
+### Geometry.
 
   * The Camara Oscura.
   * Lenses.
@@ -34,14 +34,14 @@ location: "Guanajuato, México"
   * Projective models for cameras.
   * Affine models for cameras.
 
-## Camera calibration.
+### Camera calibration.
 
   * Calibration from 2D-3D correspondences.
   * Calibration from planar scenes.
   * Calibration in practice.
   * Principles of self-calibration.
 
-## Two-view geometry.
+### Two-view geometry.
 
   * Geometry of 2 views of planar scenes.
   * Estimation of homographies.
@@ -51,18 +51,18 @@ location: "Guanajuato, México"
   * Structure from motion.
   * Bundle adjustment.
 
-## Photogrammetry.
+### Photogrammetry.
 
   * Illumination and light intensity.
   * Reflectance.
 
-## Color.
+### Color.
 
   * The concept of color.
   * The RGB and CIE spaces.
   * Perceptually uniform spaces.
 
-## Image processing.
+### Image processing.
 
   * Point operators.
   * Contrast control operators. Equalization.
@@ -74,44 +74,44 @@ location: "Guanajuato, México"
   * The Fourier transform and its properties.
   * Filtering in the frequency space.
 
-## Interest points.
+### Interest points.
 
   * General principles. Invariance properties. The Harris detector.
   * Popular detectors: SIFT, SURF, FAST, ORB.
   * Popular descriptors: SIFT, SURF, BRIEF, ORB.
   * Comparing descriptors and matching points.
 
-## Mid-level computer vision.
+### Mid-level computer vision.
 
   * Taxonomy of mid-level problems.
   * Common mathematical/probabilistic formulations.
   * Common optimization techniques.
 
-## Image restoration.
+### Image restoration.
 
   * Problem statement.
   * Denoising methods: Nl_means and BM3D
   * Contrast processing methods
   * Stereovision.
 
-## Problem statement.
+### Problem statement.
 
   * Rectification.
   * Local matching.
   * Global and semi-global dense stereo-matching.
 
-## Optical flow.
+### Optical flow.
 
   * Definition and problem statement.
   * Dense and sparse optical flow methods.
 
-## Image segmentation.
+### Image segmentation.
 
   * Problem statement.
   * MRFs and segmentation.
   * Flow networks-based methods.
 
-## Convolutional Neural Networks.
+### Convolutional Neural Networks.
 
   * General principles for neural networks. Limits in computer vision.
   * The convolutional neural networks.
@@ -121,19 +121,19 @@ location: "Guanajuato, México"
   * A few famous architectures.
   * Practice with TF2.
 
-## Object recognition.
+### Object recognition.
 
   * Problem statement and applications. Imagenet and other benchmarks.
   * A few older paradigms for object recognition.
   * CNN-based solutions.
 
-## Object detection.
+### Object detection.
 
   * Problem statement.
   * General principles in the object detection problem.
   * A few successful architectures.
 
-## Visual tracking.
+### Visual tracking.
 
   * Problem statement.
   * Tracking as a recursive Bayesian filtering problem.
@@ -144,17 +144,17 @@ location: "Guanajuato, México"
   * Recent advances in visual tracking.
 
 
-## Applications: Visual SLAM.
+### Applications: Visual SLAM.
 
   * Problem statement and applications.
   * A few competitive VSLAM systems.
 
-## Applications: Augmented reality.
+### Applications: Augmented reality.
 
   * Problem statement.
   * Marker-based augmented reality.
   * Markerless augmented reality.
 
-## Applications: .
+### Applications: .
 
   * Machine vision and autonomous driving.
