@@ -24,6 +24,15 @@ In this project, we show how visual constraints such as **homographies and funda
 </tr>
 </table>
 
+### Related thesis
+{% for post in site.thesis reversed %}
+  {% if post.tags contains "humanoids" %}
+    {% if post.tags contains "visualcontrol" %}
+      {% include archive-single-publi.html %}
+    {% endif %}  
+  {% endif %}  
+{% endfor %}
+
 ### Related publications
 {% for post in site.publications reversed %}
   {% if post.tags contains "humanoids" %}
