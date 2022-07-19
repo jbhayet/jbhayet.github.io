@@ -22,10 +22,13 @@ Two videos from Salim Vargas'MSc. thesis:
 </table>
 ### Related thesis
 
-* *Distributed model predictive control for formations of quadrotors* (Msc. thesis), by	**Salim Vargas**. Co -advised with Héctor Manuel Becerra Fermín. 12/01/2020<br>
-<a href="https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/1106/1/TE%20815.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-* *Vision-Based Formation Control For Unmanned Aerial Vehicles* (Msc. thesis), by **Patricia Marisol del Carmen Tavares Ramírez**. Co-advised with Héctor Manuel Becerra Fermín. 01/28/2019<br>
-<a href="https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/1005/1/TE%20728.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/cimat-ris/VisualFormationControl"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+{% for post in site.thesis reversed %}
+  {% if post.tags contains "cuadcopters" %}
+    {% if post.tags contains "formationcontrol" %}
+      {% include archive-single-publi.html %}
+    {% endif %}  
+  {% endif %}  
+{% endfor %}
 
 ### Related publications
 {% for post in site.publications reversed %}
