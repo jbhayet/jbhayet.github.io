@@ -23,7 +23,7 @@ Two videos from Salim Vargas'MSc. thesis:
 ### Related thesis
 
 {% for post in site.thesis reversed %}
-  {% if post.tags contains "cuadcopters" %}
+  {% if post.tags contains "quadcopters" %}
     {% if post.tags contains "formationcontrol" %}
       {% include archive-single-publi.html %}
     {% endif %}  
