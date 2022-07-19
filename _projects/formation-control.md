@@ -1,6 +1,6 @@
 ---
 title: "Formation control for quadricopters"
-excerpt: "In this project, we design algorithms to control quadcopters formations in a distributed way, using consensus theory. One of the main difficulties is that the trajectories of the quadcopters should be without collision, with either static obstacles in the environment or with other quadcopters."
+excerpt: "In this project, we design algorithms to control **quadcopters formations** in a **distributed** way, using **consensus theory**. One of the main difficulties is that the trajectories of the quadcopters should be without collision, with either static obstacles in the environment or with other quadcopters."
 
 collection: projects
 ---
@@ -26,3 +26,5 @@ Two videos from Salim Vargas'MSc. thesis:
 <a href="https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/1106/1/TE%20815.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 * *Vision-Based Formation Control For Unmanned Aerial Vehicles* (Msc. thesis), by **Patricia Marisol del Carmen Tavares Ramírez**. Co-advised with Héctor Manuel Becerra Fermín. 01/28/2019<br>
 <a href="https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/1005/1/TE%20728.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><a href="https://github.com/cimat-ris/VisualFormationControl"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
+### Related publications
