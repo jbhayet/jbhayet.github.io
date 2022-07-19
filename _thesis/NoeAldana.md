@@ -1,5 +1,5 @@
 ---
-title: "Vision-Based Locomotion For Humanoid Robots"
+title: "Visually-guided humanoid walking pattern generation"
 collection: thesis
 permalink: /thesis/NoeAldana
 date: 2021-03-25
