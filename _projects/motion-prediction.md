@@ -1,6 +1,6 @@
 ---
 title: "Trajectory and intention forecasting"
-excerpt: "This research project aims at developing theoretical work and benchmarking applications of probabilistic computing in the field of autonomous driving in urban environments. Recent developments in autonomous driving have led to very effective vehicles that can coexist with legacy, connected and other autonomous cars while obeying the road rules. One of the main challenges for autonomous cars is to reach coexistence with pedestrians and cyclists in a safe but efficient manner, which implies being able  to foresee the street users intentions/future motions in the short and mid term."
+excerpt: "Recent developments in **autonomous driving** have led to very effective vehicles that can coexist with legacy, connected and other autonomous cars while obeying the road rules. One of the main challenges for autonomous cars is to reach coexistence with pedestrians and cyclists in a safe but efficient manner, which implies being able  to **foresee the street users intentions/future motions in the short and mid term**."
 
 collection: projects
 ---
