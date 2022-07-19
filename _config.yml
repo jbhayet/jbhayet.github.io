@@ -183,7 +183,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  thesis:
     output: true
     permalink: /:collection/:path/
 
@@ -235,12 +235,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _thesis
   - scope:
       path: ""
-      type: talks
+      type: thesis
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
