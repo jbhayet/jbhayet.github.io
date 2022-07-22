@@ -16,3 +16,10 @@ Our proposal is oriented to pedestrian/cyclist motion prediction at short (1-2 s
       {% include archive-single-publi.html %}
     {% endif %}  
 {% endfor %}
+
+### Related publications
+{% for post in site.publications reversed %}
+  {% if post.tags contains "htp" %}
+    {% include archive-single-publi.html %}
+  {% endif %}  
+{% endfor %}
