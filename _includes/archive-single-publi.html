@@ -17,9 +17,11 @@
     <h4 class="archive__item-title" itemprop="headline">
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
     </h4>
+    <h4>
     {% if post.citation %}
       {{ post.citation }}
     {% endif %}
+    </h4>    
     <br>
     {% if post.link %}
       <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
