@@ -11,16 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-### Journals
+## Journals
 {% for post in site.publications reversed %}
-  {% if post.type contains "journal" %}
+  {% if post.tags contains "journal" %}
       {% include archive-single-publi.html %}
   {% endif %}  
 {% endfor %}
 
-### Conferences
+## Conferences
 {% for post in site.publications reversed %}
-  {% if post.type contains "conference" %}
+  {% if post.tags contains "conference" %}
       {% include archive-single-publi.html %}
   {% endif %}  
 {% endfor %}
