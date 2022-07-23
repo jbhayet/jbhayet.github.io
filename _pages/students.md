@@ -9,7 +9,7 @@ author_profile: true
 
 ## Prospective students
 
-I'm **open to collaborations** with motivated students in the domains of motion prediction, multiple target tracking, augmented reality, computer vision for mobile robotics, humanoid robotics. We can set up themes for BS thesis, Master thesis, Technological projects, Summer stays or Phd Thesis. If interested, please come and see me (office I-101) or send me an email.
+I'm **open to collaborations** with motivated students in the domains of motion prediction, multiple target tracking, augmented reality, computer vision for mobile robotics, humanoid robotics. We can set up themes for Bachelor thesis, Master thesis, Technological projects, Summer stays or Phd Thesis. If interested, please come and see me at [CIMAT](https://www.cimat.mx) (office I-101) or send me an email at jbhayet arrobase cimat dot mx.
 
 ## Current students
 
