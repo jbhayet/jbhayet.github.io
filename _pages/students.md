@@ -13,7 +13,6 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 
 ## Current students
 
-* **Francisco Valente Castro**. M.S.
 * **Daniel Martinez Tovar**. M.S. (co-advised with Johan Van Horebeek).
 * **Juan Luis Baldelomar**. M.S.
 * **Mario Canche Uc**. PhD candidate.
@@ -47,3 +46,4 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 * **Javad Amirian**. PhD, 2021 (co-advised with Julien Pettré). Co-Founder and CTO at [Vive Robotics](https://www.linkedin.com/company/vive-robotics/?originalSubdomain=ca).
 * **Myrna Castillo**. M.S., 2022 (co-advised with Hector Becerra). Engineer at [IIT](https://www.iit.it/).
 * **Juan José Baldelomar**. B.Sc., 2022
+* **Francisco Valente Castro**. M.S., 2022 Developer at [Google](https://careers.google.com/).
