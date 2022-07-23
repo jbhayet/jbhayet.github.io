@@ -35,7 +35,7 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 * **Sergio Mota**. PhD, 2015. Engineer at [Continental México](https://www.continental.com/es-mx/) (co-advised with Salvador Ruiz-Correa and Rogelio Hasimoto).
 * **José Guillermo Herrera Ramírez**. B.Sc., 2017 at BUAP. PhD Student at [CIMAT](https://www.cimat.mx).
 * **Ricardo Andrei Raya Ortega**. M.S., 2017 (co-advised with Hector Becerra). Engineer at [3DThea](https://www.3dthea.co/).
-* **Hugo Carlos Martínez**. PhD, 2018 (co-advised with Rafael Murrieta-Cid). Researcher at [Centro Geo].
+* **Hugo Carlos Martínez**. PhD, 2018 (co-advised with Rafael Murrieta-Cid). Researcher at [Centro Geo](https://www.centrogeo.org.mx/).
 * **Orlando García Alvarez**. M.S., 2018. CTO at [3DThea](https://www.3dthea.co/).
 * **Patricia Tavares Ramírez**. M.S., 2019 (co-advised with Hector Becerra). PhD Student at [CIO](https://www.cio.mx/).
 * **Gerardo de Jesús Rodríguez Becerra**. M.S., 2019 (co-advised with Bryan Pénin). PhD Student at [CIO](https://www.cio.mx/).
