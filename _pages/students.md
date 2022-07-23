@@ -39,9 +39,9 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 * **Orlando García Alvarez**. M.S., 2018. CTO at [3DThea](https://www.3dthea.co/).
 * **Patricia Tavares Ramírez**. M.S., 2019 (co-advised with Hector Becerra). PhD Student at [CIO](https://www.cio.mx/).
 * **Gerardo de Jesús Rodríguez Becerra**. M.S., 2019 (co-advised with Bryan Pénin). PhD Student at [CIO](https://www.cio.mx/).
-* **Karen López Carbajal**. B.Sc. , 2019 (co-advised with Claudia Esteves). AI Softwar Developer at [Université de Sherbrooke](https://www.usherbrooke.ca/).
+* **Karen López Carbajal**. B.Sc. , 2019 (co-advised with Claudia Esteves). AI Software Developer at [Université de Sherbrooke](https://www.usherbrooke.ca/).
 * **José Gallardo**. M.S., 2020. Developper at [Oracle](https://www.oracle.com/).
-* **Andrea Ek Hobak**. M.S., 2021 (co-advised with Angel Sanchez Calle). Developper at [CIMAT](https://www.cimat.mx).
+* **Andrea Ek Hobak**. M.S., 2021 (co-advised with Angel Sanchez Calle). Developer at [CIMAT](https://www.cimat.mx).
 * **Salim Vargas Hernández**. M.S., 2021 (co-advised with Hector Becerra).
 * **Noé Guadalupe Aldana Murillo**. M.S., 2014, PhD, 2021 (co-advised with Hector Becerra). Professor at [U. IberoAmericana Leon](https://www.iberoleon.mx/).
 * **Javad Amirian**. PhD, 2021 (co-advised with Julien Pettré). Co-Founder and CTO at [Vive Robotics](https://www.linkedin.com/company/vive-robotics/?originalSubdomain=ca).
