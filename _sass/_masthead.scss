@@ -21,7 +21,7 @@
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
-
+    background-color: $masthead-color ;
     nav {
       z-index: 10;
     }
