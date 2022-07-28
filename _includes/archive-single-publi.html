@@ -14,12 +14,12 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h4>
+    <small>
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><br>
     {% if post.citation %}
       {{ post.citation }}
     {% endif %}
-    </h4>
+    </small>
     {% if post.link %}
       <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     {% endif %}
