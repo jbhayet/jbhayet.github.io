@@ -10,7 +10,7 @@ redirect_from:
 
 ## Short bio
 
-I studied my engineer degree at [Ecole Nationale Supérieure de Techniques Avancées (ENSTA)](https://www.ensta.fr) in Paris, and obtained my master degree in artificial intelligence at [University Paris VI](https://www.upmc.fr). I got my Ph.D. degree from University of Toulouse in 2003, at [LAAS-CNRS](htps://www.laas.fr), in Toulouse. I was a post-doc fellow at [University of Liege](https://www.ulg.ac.be) from 2004 to 2007. Since 2007, I have been working at [CIMAT](https://www.cimat.mx) in Guanajuato, México, where I am now Senior Research Scientist in the Department of Computer Science. I teach computer programming, computer vision and probabilistic robotics.
+I studied my engineer degree at [Ecole Nationale Supérieure de Techniques Avancées (ENSTA)](https://www.ensta.fr) in Paris, and obtained my master degree in artificial intelligence at [University Paris VI](https://www.upmc.fr). I got my Ph.D. degree from University of Toulouse in 2003, at [LAAS-CNRS](https://www.laas.fr), in Toulouse. I was a post-doc fellow at [University of Liege](https://www.ulg.ac.be) from 2004 to 2007. Since 2007, I have been working at [CIMAT](https://www.cimat.mx) in Guanajuato, México, where I am now Senior Research Scientist in the Department of Computer Science. I teach computer programming, computer vision and probabilistic robotics.
 
 
 <div align="center">
