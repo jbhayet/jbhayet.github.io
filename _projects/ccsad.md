@@ -5,7 +5,24 @@ excerpt: "Several **online real-world stereo datasets** exist for the developmen
 collection: projects
 ---
 
-The stereo dataset was recorded in Mexico from a **moving vehicle**. It contains high-resolution stereo images which are complemented with direction and acceleration data obtained from an IMU, GPS data, and data from the car computer. 
+The stereo dataset was recorded in Mexico from a **moving vehicle**. It contains high-resolution stereo images which are complemented with direction and acceleration data obtained from an IMU, GPS data, and data from the car computer.
+
+<table>
+<tr>
+<td><div class="fitvidsignore">
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/QHJhTWTH9xQ" title="Coupling humanoid walking pattern generation and homography feedback for visual path-following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td><td><div class="fitvidsignore">
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/eof5K2Dcn5M" title="Obstacle avoidance with vision-driven humanoid locomotion (1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+</tr>
+<tr>
+<td><div class="fitvidsignore">
+<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=jBnM5Fo70vc" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td><td><div class="fitvidsignore">
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/PV8MR_qOPtY" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+</tr>
+</table>
 
 ### Related thesis
 {% for post in site.thesis reversed %}
