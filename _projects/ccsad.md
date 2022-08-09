@@ -10,16 +10,9 @@ The stereo dataset was recorded in Mexico from a **moving vehicle**. It contains
 <table>
 <tr>
 <td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/QHJhTWTH9xQ" title="Coupling humanoid walking pattern generation and homography feedback for visual path-following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/jBnM5Fo70vc" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td><td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/eof5K2Dcn5M" title="Obstacle avoidance with vision-driven humanoid locomotion (1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></td>
-</tr>
-<tr>
-<td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=jBnM5Fo70vc" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></td><td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/PV8MR_qOPtY" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/DHLWCtNvyCs" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td>
 </tr>
 </table>
