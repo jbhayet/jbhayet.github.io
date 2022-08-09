@@ -10,8 +10,11 @@ The stereo dataset was recorded in Mexico from a **moving vehicle**. It contains
 <table>
 <tr>
 <td><div class="fitvidsignore">
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/jBnM5Fo70vc" title="Obstacle avoidance with vision-driven humanoid locomotion (2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></td><td><div class="fitvidsignore">
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/jBnM5Fo70vc" title="CCSAD dataset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+</tr>
+<tr>
+<td><div class="fitvidsignore">
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/DHLWCtNvyCs" title="Obstacle avoidance with vision-driven humanoid locomotion (3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></td>
 </tr>
