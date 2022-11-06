@@ -24,3 +24,4 @@ A.P. 402, Guanajuato, Gto.<br>
 C.P. 36000, MEXICO<br>
 Office : I-101<br>
 Mail: jbhayet arrobase cimat punto mx<br>
+<a rel="me" href="https://mathstodon.xyz/@jbhayet">Mastodon</a>
