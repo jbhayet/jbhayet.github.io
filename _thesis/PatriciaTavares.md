@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Vision-Based Formation Control For Unmanned Aerial Vehicles"
 collection: thesis
 permalink: /thesis/PatriciaTavares
 date: 2019-01-28
