@@ -8,5 +8,5 @@ citation: ' Pei Xu,  Jean-Bernard Hayet,  Ioannis Karamouzas, &quot;Context-Awar
 Real-Time Vehicle Trajectory Prediction.&quot; IEEE Robotics and Automation Letters, 2023.'
 paperurl: 'https://ieeexplore.ieee.org/document/10184422'
 github: 'https://github.com/xupei0610/'
----
 tags: [journal,htp]
+---
