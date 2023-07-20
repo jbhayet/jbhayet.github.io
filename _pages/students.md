@@ -14,8 +14,10 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 ## Current students
 
 * **Daniel Martinez Tovar**. M.S. (co-advised with Johan Van Horebeek).
-* **Juan Luis Baldelomar**. M.S.
 * **Mario Canche Uc**. PhD candidate.
+* **Marcela Morales Quispe**. PhD candidate.
+* **Erick Zuniga**. M.S. (co-advised with Thomas Batard).
+* **Edgar Chavez**. M.S. (co-advised with Hector Becerra).
 
 ## Former students
 
@@ -45,5 +47,6 @@ I'm **open to collaborations** with motivated students in the domains of motion 
 * **Noé Guadalupe Aldana Murillo**. M.S., 2014, PhD, 2021 (co-advised with Hector Becerra). Professor at [U. IberoAmericana Leon](https://www.iberoleon.mx/).
 * **Javad Amirian**. PhD, 2021 (co-advised with Julien Pettré). Co-Founder and CTO at [Vive Robotics](https://www.linkedin.com/company/vive-robotics/?originalSubdomain=ca).
 * **Myrna Castillo**. M.S., 2022 (co-advised with Hector Becerra). Engineer at [IIT](https://www.iit.it/).
-* **Juan José Baldelomar**. B.Sc., 2022
-* **Francisco Valente Castro**. M.S., 2022 Developer at [Google](https://careers.google.com/).
+* **Juan José Baldelomar**. B.Sc., 2022.
+* **Francisco Valente Castro**. M.S., 2022. Developer at [Google](https://careers.google.com/).
+* **Juan Luis Baldelomar**, M.S., 2023. Data Scientist at [DataInt Mexico](https://dataint.mx/).
