@@ -7,4 +7,5 @@ venue: 'the proceedings of Proc. of Int. Conf on Pattern Recognition (ICPR), ISB
 paperurl: 'http://ieeexplore.ieee.org/document/6977419'
 citation: ' F. Madrigal,  J.B. Hayet,  F. Lerasle, &quot;Intention-Aware Multiple Pedestrian Tracking.&quot; the proceedings of Proc. of Int. Conf on Pattern Recognition (ICPR), ISBN: 9781479952106, 2014.'
 tags: [conference]
+
 ---
